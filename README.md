@@ -7,4 +7,4 @@ Integrantes:
   - Álvaro Valverde
   - Sebastián Pacheco
 
-Code en: https://github.com/AnoderPersona/merkit_code
+Code en: https://github.com/Valrojo/merkit_code
